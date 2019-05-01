@@ -198,7 +198,7 @@ figure-img {
 }
 
 main form {
-  background-color: darkseagreen;
+  background-color:purple;
   width: 90%;
   margin: auto;
   color: white;
@@ -219,15 +219,15 @@ input {
 
 .button {
   padding: 5px;
-  background-color: navy;
-  color: lightseagreen;
+  background-color:purple;
+  color: lightblue;
 }
 
 .call {
   color: navy;
   text-align: center;
   font-size: 2em;
-  background-color: darkseagreen;
+  background-color: purple;
   width: 60%;
   padding: 5px 0 0 0;
   margin: 10px auto 0 auto;
@@ -235,7 +235,7 @@ input {
 }
 
 .phone {
-  color: darkseagreen;
+  color: purple;
   background-color: navy;
   padding: 5px;
   text-align: center;
@@ -333,7 +333,7 @@ input {
   grid-template-areas:
     "div1" 
     "div2";
-  background-color: darkseagreen;
+  background-color:purple;
   width: 90%;
   margin: auto;
   color: white;
@@ -414,7 +414,7 @@ input {
   grid-template-areas:
     "div1"
     "div2";
-  background-color: darkseagreen;
+  background-color: purple;
   width: 90%;
   margin: auto;
   color: white;
@@ -477,7 +477,7 @@ input {
   display: grid;
   grid-template-areas:
     "div1 div2";
-  background-color: darkseagreen;
+  background-color: purple;
   width: 90%;
   margin: auto;
   color: white;
